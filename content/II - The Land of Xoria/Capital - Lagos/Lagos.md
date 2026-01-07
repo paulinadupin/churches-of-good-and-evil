@@ -15,3 +15,5 @@ Lagos is the Capital region of Xoria. It is a wealthy land auspicious for trade 
 
 ## Relevant Information About the Area
 
+* Home of [[Istishia's Ternion - The Bishops]] 
+* Location of [[The Guild of Silverclaw]]

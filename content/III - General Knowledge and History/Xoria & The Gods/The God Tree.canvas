@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"981b8d40d93c26c8","x":-125,"y":-100,"width":250,"height":60,"type":"text","text":"**Nephelos**, *Entity of Loss*"},
+		{"id":"fc2a799dceea801f","x":40,"y":-280,"width":250,"height":60,"type":"text","text":"**The Nothing**, *The Void*"},
+		{"id":"1a9fbe78fa5ff98f","x":-265,"y":-280,"width":250,"height":60,"type":"text","text":"**The Everything**, *Infinity*"},
+		{"id":"7149805dd0257be1","x":-142,"y":-180,"width":285,"height":60,"type":"text","text":"**Xoria**, *The Mother, Creator of All*"},
+		{"id":"848e1f08471ee5b6","x":-182,"y":-20,"width":365,"height":140,"color":"6","type":"text","text":"*''With Creation comes Constraint. When things can exist and not exist, can be made and destroyed, can be awaited or forgotten, Meaning emerges. And from Meaning, there is Life.*''"},
+		{"id":"3e16867b893d8da1","x":-480,"y":820,"width":250,"height":60,"type":"text","text":"**Myrkul**, *High God of Death*"},
+		{"id":"a2f68d991b676195","x":265,"y":850,"width":317,"height":60,"type":"text","text":"**Lathander**, *High God of  Beginnings*"},
+		{"id":"69f77a2f2325cf5b","x":-124,"y":680,"width":250,"height":100,"color":"6","type":"text","text":"''*To bring Balance; for things to be maintained, there are Shoulds and Shouldn'ts*''"},
+		{"id":"9b23ae645d8ae524","x":-124,"y":600,"width":250,"height":60,"type":"text","text":"**Tyr**, *Primordial of Justice*"},
+		{"id":"3e114106e8663f68","x":-540,"y":170,"width":290,"height":60,"type":"text","text":"**Krone**, *Entity of Time*"},
+		{"id":"aaa384353d7975e7","x":290,"y":170,"width":300,"height":60,"type":"text","text":"**Lithavis**, *Entity of Earth & Matter*"},
+		{"id":"e3dbe17fa280fca1","x":-520,"y":260,"width":250,"height":60,"color":"6","type":"text","text":"''*To bring about Change*''"},
+		{"id":"5604079c3c615875","x":315,"y":260,"width":250,"height":60,"color":"6","type":"text","text":"''*To bring about Physical Realities, Concreteness*''"},
+		{"id":"d70c81ee1d4d62bd","x":-125,"y":230,"width":250,"height":238,"color":"3","type":"text","text":"**The World**; At Xoria's request, Lithavis and Krone created the world wherein Xoria could bring upon Meaning through Life. The Land of Xoria is named as such as it represents the continent where the High Gods once inhabited."}
+	],
+	"edges":[]
+}
