@@ -23,32 +23,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Cinzel",
-        body: "Crimson Text",
-        code: "Courier Prime",
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#f4ecd8",          // Warm parchment background
-          lightgray: "#d4c5a9",      // Aged paper borders
-          gray: "#8b7355",           // Faded brown for secondary text
-          darkgray: "#3d2817",       // Dark brown ink for body text
-          dark: "s#3d322eff",           // Very dark brown for headers
-          secondary: "#8b4513",      // Saddle brown for links
-          tertiary: "#cd853f",       // Peru/tan for hover states
-          highlight: "rgba(205, 133, 63, 0.15)",
-          textHighlight: "#f4d03faa", // Gold highlight
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#1a1612",          // Dark leather book background
-          lightgray: "#2d2520",      // Dark leather borders
-          gray: "#8b7355",           // Faded text
-          darkgray: "#d4c5a9",       // Cream body text
-          dark: "#f4ecd8",           // Parchment white headers
-          secondary: "#f3dda7ff",      // Goldenrod links
-          tertiary: "#877059ff",       // Peru hover
-          highlight: "rgba(205, 133, 63, 0.15)",
-          textHighlight: "#d4c5a988", // Beige highlight
+          light: "#161618",
+          lightgray: "#393639",
+          gray: "#646464",
+          darkgray: "#d4d4d4",
+          dark: "#ebebec",
+          secondary: "#7b97aa",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#b3aa0288",
         },
       },
     },
