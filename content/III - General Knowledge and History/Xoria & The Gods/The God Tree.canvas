@@ -35,7 +35,8 @@
 		{"id":"5710992a82b36eda","type":"text","text":"To guide the functioning of the New World, Xoria and Nephelos bore the Primordials","x":-49,"y":494,"width":250,"height":85,"color":"2"},
 		{"id":"9b23ae645d8ae524","type":"text","text":"**Tyr**, *Primordial  God of Justice*","x":133,"y":820,"width":250,"height":60},
 		{"id":"5f4a4cf8384bc2f1","type":"text","text":"**Ether**, *God of Darkness*","x":-356,"y":1720,"width":250,"height":60},
-		{"id":"8bcabd44b397a332","type":"text","text":"**Tymora**, *Goddess of Luck & Adventurers*","x":306,"y":1720,"width":250,"height":60}
+		{"id":"8bcabd44b397a332","type":"text","text":"**Tymora**, *Goddess of Luck & Adventurers*","x":306,"y":1720,"width":250,"height":60},
+		{"id":"2c8efe9f42feeec1","x":-643,"y":-20,"width":250,"height":60,"color":"1","type":"text","text":"TEST"}
 	],
 	"edges":[
 		{"id":"7cc275761e738ae6","fromNode":"1a9fbe78fa5ff98f","fromSide":"bottom","toNode":"7149805dd0257be1","toSide":"top"},
