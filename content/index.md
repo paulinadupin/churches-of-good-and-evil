@@ -2,9 +2,9 @@
 title: COGAE
 ---
 
-# Welcome to Churches of Good and Evil
+# Welcome to *Churches of Good and Evil*
 
-The lore and history behind the adventures of the Ember Storm Guild in the Land of Xoria.
+**The lore and history behind the adventures of the Ember Storm Guild in the Land of Xoria.**
 
 ![[Pasted image 20260107092803.png]]
 ## Explore
